@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mild-pw\n"
+"POT-Creation-Date: 2014-09-25 19:03+1000\n"
+"PO-Revision-Date: 2014-09-25 19:03+1000\n"
+"Last-Translator: David Featherston\n"
+"Language-Team: \n"
+"Language: en_AU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: posts-widget.php:31
+msgid "Posts Widget"
+msgstr ""
+
+#: posts-widget.php:34
+msgid "Display the latest posts with optional title, date and image."
+msgstr ""
+
+#: views/admin.php:8
+msgid "Title:"
+msgstr ""
+
+#: views/admin.php:12
+msgid "Categories:"
+msgstr ""
+
+#: views/admin.php:23
+msgid "Tags:"
+msgstr ""
+
+#: views/admin.php:34
+msgid "Settings"
+msgstr ""
+
+#: views/admin.php:37
+msgid "Link to full page:"
+msgstr ""
+
+#: views/admin.php:41
+msgid "No. of posts to show:"
+msgstr ""
+
+#: views/admin.php:45
+msgid "Length of the excerpt:"
+msgstr ""
+
+#: views/admin.php:50
+msgid "Show Image"
+msgstr ""
+
+#: views/admin.php:54
+msgid "Show Date"
+msgstr ""
+
+#: views/widget.php:29
+msgid "Read More"
+msgstr ""
+
+#: views/widget.php:35
+msgid "- View More -"
+msgstr ""
