@@ -95,7 +95,7 @@ class Init extends \WP_Widget {
 
     // Registers and enqueues admin-specific styles.
     public function register_admin_styles() {
-        wp_enqueue_style( 'latest-posts-widget-admin-styles', plugin_dir_url( __FILE__ ) . '/assets/css/admin.css' );
+        wp_enqueue_style( 'latest-posts-widget-admin-styles', plugin_dir_url( __FILE__ ) . 'assets/css/admin.css' );
     }
 
 }
