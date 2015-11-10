@@ -1,7 +1,8 @@
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: mild-pw\n"
-"POT-Creation-Date: 2014-09-25 19:03+1000\n"
+"Project-Id-Version: latost\n"
+"POT-Creation-Date: 2015-11-10 20:15+1100\n"
 "PO-Revision-Date: 2014-09-25 19:03+1000\n"
 "Last-Translator: David Featherston\n"
 "Language-Team: \n"
@@ -9,60 +10,56 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.9\n"
+"X-Generator: Poedit 1.8.6\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: posts-widget.php:31
-msgid "Posts Widget"
+#: ../latost.php:31
+msgid "Latost"
 msgstr ""
 
-#: posts-widget.php:34
+#: ../latost.php:34
 msgid "Display the latest posts with optional title, date and image."
 msgstr ""
 
-#: views/admin.php:8
+#: ../views/admin.php:8
 msgid "Title:"
 msgstr ""
 
-#: views/admin.php:12
+#: ../views/admin.php:12
 msgid "Categories:"
 msgstr ""
 
-#: views/admin.php:23
+#: ../views/admin.php:22
 msgid "Tags:"
 msgstr ""
 
-#: views/admin.php:34
-msgid "Settings"
-msgstr ""
-
-#: views/admin.php:37
+#: ../views/admin.php:32
 msgid "Link to full page:"
 msgstr ""
 
-#: views/admin.php:41
+#: ../views/admin.php:36
 msgid "No. of posts to show:"
 msgstr ""
 
-#: views/admin.php:45
+#: ../views/admin.php:40
 msgid "Length of the excerpt:"
 msgstr ""
 
-#: views/admin.php:50
+#: ../views/admin.php:45
 msgid "Show Image"
 msgstr ""
 
-#: views/admin.php:54
+#: ../views/admin.php:49
 msgid "Show Date"
 msgstr ""
 
-#: views/widget.php:29
+#: ../views/widget.php:29
 msgid "Read More"
 msgstr ""
 
-#: views/widget.php:35
+#: ../views/widget.php:35
 msgid "- View More -"
 msgstr ""

@@ -1,0 +1,9 @@
+/* =Admin
+----------------------------------------------- */
+
+.latost input[type=checkbox] {
+	margin-right: 0.5em;
+}
+.latost input[type=checkbox] + label {
+    font-style: italic;
+}

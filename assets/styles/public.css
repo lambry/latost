@@ -1,0 +1,38 @@
+/* =Public
+----------------------------------------------- */
+
+.latost:before, 
+.latost:after {
+	content: '';
+	clear: both;
+	display: table;
+}
+.latost-post {
+	clear: both;
+	margin-bottom: 1.5em;
+}
+.latost-title {
+	line-height: 1.2;
+	margin-bottom: 0.25em;
+}
+.latost-image {
+	float: left;
+	max-width: 40%;
+	margin: 0 1em 1em 0;
+}
+.latost-time {
+	color: #999;
+	font-size: 0.75rem;
+	font-style: italic;
+}
+.latost-more {
+	display: block;
+	text-align: right;
+	font-size: 0.75rem;
+}
+.latost-link {
+	display: block;
+	padding: 0.25em;
+	font-size: 0.9rem;
+	text-align: center;
+}
